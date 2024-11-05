@@ -2,9 +2,9 @@
 - 👀 I’m interested in UI/UX ,FrontEnd backend devolping
 - 🌱 I’m currently learning BSc computer science at IIT
 - 💞️ I’m looking to collaborate on new projects
-- 📫 How to reach me ...
+- 📫 How to reach me-sithuprabashvi200218@gmail.com
 - 😄 Pronouns: She/her
-- ⚡ Fun fact: ...
+- ⚡ Fun fact: 
 
 <!---
 Sithuprabashvi18/Sithuprabashvi18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
